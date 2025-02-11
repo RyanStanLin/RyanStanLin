@@ -1,4 +1,4 @@
-![InSight_Reflect](https://github.com/user-attachments/assets/7cf6af88-f104-4d59-8949-fafcdd7852f5)
+![Frame 523](https://github.com/user-attachments/assets/f51e58f2-2966-4df9-8371-a26e7a297bc9)
 
 ### Dream up big ideas and bring those ideas to life in the incredible way we create.
 ### I believe Dream it, Chase it, Code it.
