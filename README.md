@@ -2,7 +2,6 @@
 
 ### Dream up big ideas and bring those ideas to life in the incredible way we create.
 ### I believe Dream it, Chase it, Code it.
-### That's why I code🧑‍💻, from user interface design🎨 to language learning💿 to platform exploration💻, fully embracing the joy of creativity.
 
 # Language Status
 ![Github_Stack_Lang](https://github.com/user-attachments/assets/4d51dc9b-ec62-4888-a9fb-cc3c435caf57)
